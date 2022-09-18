@@ -44,7 +44,7 @@ int main() {
    else {
        cout<<" A is 0"<<endl;
    }
-
+cout<<"Hello duniya";
 
 
 }
